@@ -1,3 +1,6 @@
 # demo-branch
 12345 thay di
 commit: thay doi file
+12345 thay doi
+add : dang ky thay do
+
